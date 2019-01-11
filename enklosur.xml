@@ -628,7 +628,7 @@
             </b:widget>
           </b:section>
       <footer class='site-footer'>
-        <p class='text'>Ikuti <a expr:href='&quot;https://www.blogger.com/follow.g?blogID=&quot; + data:blog.blogId'>@<data:blog.title/> di Blogger.com</a>.</p>
+        <p class='text'>Ikuti <a expr:href='&quot;https://www.blogger.com/follow.g?blogID=&quot; + data:blog.blogId'>@<data:blog.title/> di Blogger.com</a></p>
       </footer>
     </div>
     </b:if>
